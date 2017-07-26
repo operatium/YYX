@@ -3,10 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/YYX.iml" filepath="$PROJECT_DIR$/YYX.iml" />
-      <module fileurl="file://$PROJECT_DIR$/YYX.iml" filepath="$PROJECT_DIR$/YYX.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gresturepassword/gresturepassword.iml" filepath="$PROJECT_DIR$/gresturepassword/gresturepassword.iml" />
       <module fileurl="file://$PROJECT_DIR$/gresturepassword/gresturepassword.iml" filepath="$PROJECT_DIR$/gresturepassword/gresturepassword.iml" />
     </modules>
   </component>

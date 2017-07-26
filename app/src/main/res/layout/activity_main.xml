@@ -4,7 +4,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.yyx.MainActivity">
-<com.gresturepassword.mainview
-    android:layout_width="match_parent"
-    android:layout_height="match_parent" />
+    <com.gresturepassword.GresturePasswordView
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
 </RelativeLayout>
